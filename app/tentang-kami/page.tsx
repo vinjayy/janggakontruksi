@@ -12,8 +12,8 @@ export default function AboutPage() {
           <div className="container px-4 mx-auto text-center relative z-10">
             <h1 className="text-3xl md:text-4xl font-bold mb-4">Tentang Kami</h1>
             <p className="max-w-2xl mx-auto text-zinc-300">
-              Janggajayakontruksi adalah bengkel las terpercaya di Ciamis yang mengkhususkan diri dalam pembuatan dan
-              pemasangan kanopi dan pagar berkualitas tinggi
+              Bengkel las terpercaya di Cirebon, Majakengka, Kuningan dan Indramayu 
+              yang mengkhususkan diri dalam pembuatan dan pemasangan kanopi dan pagar berkualitas tinggi.
             </p>
           </div>
         </section>
@@ -33,20 +33,27 @@ export default function AboutPage() {
               <div>
                 <h2 className="text-3xl font-bold mb-6">Sejarah Kami</h2>
                 <p className="text-zinc-600 mb-4">
-                  Janggajayakontruksi didirikan dengan visi untuk menyediakan layanan konstruksi berkualitas tinggi
-                  dengan harga yang terjangkau bagi masyarakat Ciamis dan sekitarnya.
+               Selamat datang di Jangga Jaya Kontruksi! Kami adalah perusahaan konstruksi yang telah berpengalaman 
+               dalam membangun berbagai jenis proyek bangunan, mulai dari rumah tinggal, gedung perkantoran, 
+               hingga proyek komersial dan industri. Dengan tim yang profesional dan berkompeten, 
+               kami berkomitmen untuk memberikan hasil konstruksi yang berkualitas tinggi, aman, dan tepat waktu.
                 </p>
                 <p className="text-zinc-600 mb-4">
-                  Berawal dari bengkel las kecil, kami terus berkembang dan memperluas layanan kami untuk memenuhi
-                  berbagai kebutuhan konstruksi pelanggan kami.
+                  Di Jangga Jaya Kontruksi kami memahami bahwa setiap proyek memiliki kebutuhan dan tantangan unik. 
+                  Oleh karena itu, kami selalu mengutamakan komunikasi yang baik dengan klien untuk memastikan semua 
+                  kebutuhan dan ekspektasi dapat tercapai dengan sempurna. Kami bekerja dengan berbagai 
+                  jenis material terbaik dan teknologi terkini untuk memastikan struktur bangunan yang kokoh, 
+                  efisien, dan ramah lingkungan.
                 </p>
                 <p className="text-zinc-600 mb-6">
-                  Dengan pengalaman bertahun-tahun dalam industri ini, kami telah membangun reputasi sebagai bengkel las
-                  terpercaya yang mengutamakan kualitas, ketepatan waktu, dan kepuasan pelanggan.
+                  Kami menyediakan layanan lengkap dalam bidang konstruksi, mulai dari perencanaan, 
+                  desain, hingga pembangunan dan renovasi. Kami juga menawarkan layanan konsultasi 
+                  untuk membantu Anda merencanakan proyek konstruksi dengan lebih matang, sehingga 
+                  hasil akhirnya dapat optimal sesuai dengan anggaran dan waktu yang tersedia.
                 </p>
                 <Button asChild className="bg-green-600 hover:bg-green-700">
                   <a
-                    href="https://wa.me/6281413215200"
+                    href="https://wa.me/6281234400591"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-green-600 hover:bg-green-700 text-white rounded-full font-medium shadow-md hover:shadow-lg transition-all duration-200"
@@ -102,8 +109,7 @@ export default function AboutPage() {
                     <h3 className="text-xl font-bold">Visi</h3>
                   </div>
                   <p className="text-zinc-600">
-                    Menjadi bengkel las terdepan di Ciamis yang dikenal karena kualitas, inovasi, dan layanan pelanggan
-                    yang luar biasa dalam industri konstruksi.
+                    Menjadi perusahaan konstruksi terkemuka yang dikenal karena kualitas, profesionalisme, dan keandalan dalam setiap proyek yang kami tangani.
                   </p>
                 </CardContent>
               </Card>
@@ -133,19 +139,15 @@ export default function AboutPage() {
                   <ul className="space-y-2 text-zinc-600">
                     <li className="flex items-start gap-2">
                       <CheckCircle className="h-5 w-5 text-green-600 mt-0.5 flex-shrink-0" />
-                      <span>Menyediakan produk konstruksi berkualitas tinggi dengan harga yang kompetitif</span>
+                      <span>Membangun infrastruktur yang berkualitas tinggi dengan memprioritaskan keselamatan dan kepuasan pelanggan.</span>
                     </li>
                     <li className="flex items-start gap-2">
                       <CheckCircle className="h-5 w-5 text-green-600 mt-0.5 flex-shrink-0" />
-                      <span>Mengutamakan kepuasan pelanggan melalui layanan yang responsif dan profesional</span>
+                      <span>Menyediakan solusi konstruksi yang inovatif dan ramah lingkungan.</span>
                     </li>
                     <li className="flex items-start gap-2">
                       <CheckCircle className="h-5 w-5 text-green-600 mt-0.5 flex-shrink-0" />
-                      <span>Terus berinovasi dalam teknik dan desain untuk memenuhi kebutuhan pelanggan</span>
-                    </li>
-                    <li className="flex items-start gap-2">
-                      <CheckCircle className="h-5 w-5 text-green-600 mt-0.5 flex-shrink-0" />
-                      <span>Mengembangkan keterampilan dan pengetahuan tim untuk hasil yang lebih baik</span>
+                      <span>Menjaga kepercayaan klien melalui penyelesaian proyek yang tepat waktu dan sesuai anggaran.</span>
                     </li>
                   </ul>
                 </CardContent>
@@ -170,10 +172,10 @@ export default function AboutPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Telepon / WhatsApp</h3>
-                    <p className="text-zinc-600">+62 81413215200</p>
+                    <p className="text-zinc-600">0812-3440-0591</p>
                     <Button asChild className="mt-4 bg-green-600 hover:bg-green-700 w-full">
                       <a
-                        href="https://wa.me/6281413215200"
+                        href="https://wa.me/6281234400591"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="mt-4 inline-flex items-center justify-center w-full gap-2 px-6 py-3 bg-green-600 hover:bg-green-700 text-white rounded-full font-medium shadow-md hover:shadow-lg transition-all duration-200"
@@ -202,10 +204,10 @@ export default function AboutPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Email</h3>
-                    <p className="text-zinc-600">info@janggajayakontruksi.com</p>
+                    <p className="text-zinc-600">janggajayakontruksi@gmail.com</p>
                     <Button asChild className="mt-4 w-full">
                       <a
-                        href="mailto:info@janggajayakontruksi.com"
+                        href="mailto:janggajayakontruksi@gmail.com"
                         className="mt-4 inline-flex items-center justify-center w-full gap-2 px-6 py-3 bg-zinc-800 hover:bg-zinc-700 text-white rounded-full font-medium shadow-md hover:shadow-lg transition-all duration-200"
                       >
                         <svg
@@ -236,7 +238,9 @@ export default function AboutPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Alamat</h3>
-                    <p className="text-zinc-600">Jl. Raya Ciamis, Ciamis, Jawa Barat</p>
+                    <p className="text-zinc-600">Cabang 1 : Plumbon Kab. Cirebon</p>
+                    <p className="text-zinc-600">Cabang 2 : Beber Kab. Cirebon </p>
+                    <p className="text-zinc-600">	Cabang 3 : Sumber Jaya Majalengka</p>
                   </div>
                 </CardContent>
               </Card>
@@ -282,6 +286,8 @@ export default function AboutPage() {
                       "Booth Container",
                       "Menara Toren Air",
                       "Plafon PVC",
+                      "Servis Las Panggilan",
+                      "Renovasi dan Pembangunan Properti",
                     ].map((service, index) => (
                       <div key={index} className="flex items-center gap-2">
                         <CheckCircle className="h-4 w-4 text-green-600 flex-shrink-0" />

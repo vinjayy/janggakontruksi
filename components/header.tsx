@@ -15,15 +15,17 @@ export default function Header() {
 
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-white/80 backdrop-blur-md">
-      <div className="container flex h-16 items-center justify-between px-4 sm:px-6">
-        <Link href="/" className="flex items-center space-x-2">
-          <div className="relative h-8 w-8 bg-zinc-900 rounded-full flex items-center justify-center text-white font-bold">
-            J
-          </div>
-          <span className="font-bold text-xl bg-gradient-to-r from-zinc-900 to-zinc-600 bg-clip-text text-transparent">
-            Janggajayakontruksi
-          </span>
-        </Link>
+      <div className="container flex h-30 items-center justify-between px-4 sm:px-6">
+ <Link href="/" className="flex items-center space-x-2">
+<div className="relative h-20 w-20">
+  <img src="/logo2.png" alt="Logo" className="h-20 w-20" />
+</div>
+
+  <span className="font-bold text-xl bg-gradient-to-r from-zinc-900 to-zinc-600 bg-clip-text text-transparent">
+    Jangga Jaya Kontruksi
+  </span>
+</Link>
+
 
         {/* Desktop Navigation - Moved to right */}
         <nav className="hidden md:flex items-center">

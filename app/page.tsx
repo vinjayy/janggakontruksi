@@ -104,6 +104,20 @@ export default function HomePage() {
       icon: "Layers",
       image: "/plafon.jpg?height=300&width=500&text=Plafon PVC",
     },
+     {
+      title: "Servis Las Panggilan",
+      description:
+        "Layanan las panggilan yang cepat dan profesional untuk semua kebutuhan fabrikasi serta perbaikan logam langsung di tempat Anda.",
+      icon: "Layers",
+      image: "/panggilan.jpg?height=300&width=500&text=Plafon PVC",
+    },
+     {
+      title: "Renovasi dan Pembangunan Properti",
+      description:
+        "Jasa renovasi dan pembangunan properti yang terpercaya dan berkualitas untuk mewujudkan hunian atau ruang komersial impian Anda.",
+      icon: "Layers",
+      image: "/renov.jpg?height=300&width=500&text=Plafon PVC",
+    },
   ]
 
   const getIcon = (iconName: string) => {
@@ -296,14 +310,12 @@ export default function HomePage() {
           <div className="container px-4 py-16 md:py-24 mx-auto relative z-20">
             <div className="max-w-2xl">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
-                Jasa Kanopi & Pagar
+               Jasa Kontruksi dan Perbaikan Pagar, Kanopi dll
                 <br />
-                Ciamis, Jawa Barat
+              
               </h1>
               <p className="text-lg text-zinc-200 mb-8 max-w-xl">
-                Kami adalah Kanopi Ciamis Official, workshop bengkel las penyedia solusi kanopi, pagar, pintu, teralis,
-                railing, konstruksi baja berat/wf dan produk fabrikasi besi baja lain yang terbaik di Ciamis, Jawa
-                Barat!
+                Kami adalah Jangga Jaya Kontruksi Official, workshop bengkel las penyedia solusi kanopi, pagar, pintu, teralis, railing, konstruksi baja berat/wf dan produk fabrikasi besi baja lain yang terbaik di Cirebon, Majalengka, Kuningan dan Indramayu Jawa Barat
               </p>
               <a
                 href="#survey"
@@ -463,17 +475,17 @@ export default function HomePage() {
               {[
                 {
                   name: "Budi Santoso",
-                  location: "Ciamis",
+                  location: "Cirebon",
                   text: "Hasil kanopi sangat memuaskan dan pemasangan cepat. Tim sangat profesional dan ramah.",
                 },
                 {
                   name: "Siti Rahayu",
-                  location: "Tasikmalaya",
+                  location: "Majalengka",
                   text: "Pagar rumah saya jadi lebih aman dan indah. Harga bersaing dengan kualitas terbaik.",
                 },
                 {
                   name: "Ahmad Hidayat",
-                  location: "Banjar",
+                  location: "Indramayu",
                   text: "Teralis jendela yang dibuat sangat kokoh dan desainnya sesuai dengan yang saya inginkan.",
                 },
               ].map((testimonial, index) => (

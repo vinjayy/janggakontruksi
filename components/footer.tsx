@@ -14,49 +14,47 @@ export default function Footer() {
             </p>
             <div className="flex items-center gap-2 mb-2">
               <MapPin className="h-4 w-4 text-green-500" />
-              <span>Jl. Raya Ciamis, Ciamis, Jawa Barat</span>
+              <span>Cabang 1 : Plumbon Kab. Cirebon</span>
+            </div>
+            <div className="flex items-center gap-2 mb-2">
+              <MapPin className="h-4 w-4 text-green-500" />
+              <span>Cabang 2 : Beber Kab. Cirebon</span>
+            </div>
+            <div className="flex items-center gap-2 mb-2">
+              <MapPin className="h-4 w-4 text-green-500" />
+              <span>Cabang 3 : Sumber Jaya Majalengka</span>
             </div>
             <div className="flex items-center gap-2 mb-2">
               <Phone className="h-4 w-4 text-green-500" />
-              <span>081413215200</span>
+              <span>0812-3440-0591</span>
             </div>
             <div className="flex items-center gap-2">
               <Mail className="h-4 w-4 text-green-500" />
-              <span>info@janggajayakontruksi.com</span>
+              <span>janggajayakontruksi@gmail.com</span>
             </div>
           </div>
 
           <div>
-            <h3 className="text-lg font-semibold text-white mb-4">Layanan Kami</h3>
-            <ul className="space-y-2 grid grid-cols-2">
+            <h3 className="text-lg font-semibold text-white mb-4">Kontak Kami</h3>
+            <ul className="space-y-2 grid grid-cols-1">
               <li>
                 <Link href="/" className="hover:text-white transition-colors">
-                  Kanopi
+                  Instagram : @janggajaya_kontruksi
                 </Link>
               </li>
               <li>
                 <Link href="/" className="hover:text-white transition-colors">
-                  Pagar
+                  Facebook : @bam.nata
                 </Link>
               </li>
               <li>
                 <Link href="/" className="hover:text-white transition-colors">
-                  Pintu
+                  Twitter : @janggajayakontruksi
                 </Link>
               </li>
               <li>
                 <Link href="/" className="hover:text-white transition-colors">
-                  Tangga
-                </Link>
-              </li>
-              <li>
-                <Link href="/" className="hover:text-white transition-colors">
-                  Teralis
-                </Link>
-              </li>
-              <li>
-                <Link href="/" className="hover:text-white transition-colors">
-                  Konstruksi Baja
+                  Youtube : @janggajayakontruksi
                 </Link>
               </li>
             </ul>
