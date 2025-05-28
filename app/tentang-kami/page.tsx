@@ -33,24 +33,12 @@ export default function AboutPage() {
               <div>
                 <h2 className="text-3xl font-bold mb-6">Sejarah Kami</h2>
                 <p className="text-zinc-600 mb-4">
-               Selamat datang di Jangga Jaya Kontruksi! Kami adalah perusahaan konstruksi yang telah berpengalaman 
-               dalam membangun berbagai jenis proyek bangunan, mulai dari rumah tinggal, gedung perkantoran, 
-               hingga proyek komersial dan industri. Dengan tim yang profesional dan berkompeten, 
-               kami berkomitmen untuk memberikan hasil konstruksi yang berkualitas tinggi, aman, dan tepat waktu.
+                Selamat datang di Jangga Jaya Kontruksi! Kami adalah perusahaan konstruksi yang 
+                telah berpengalaman dalam membangun berbagai jenis proyek bangunan, mulai dari rumah tinggal, 
+                gedung perkantoran, hingga proyek komersial dan industri. Dengan tim yang profesional dan 
+                berkompeten, kami berkomitmen untuk memberikan hasil konstruksi yang berkualitas tinggi, aman, dan tepat waktu.
                 </p>
-                <p className="text-zinc-600 mb-4">
-                  Di Jangga Jaya Kontruksi kami memahami bahwa setiap proyek memiliki kebutuhan dan tantangan unik. 
-                  Oleh karena itu, kami selalu mengutamakan komunikasi yang baik dengan klien untuk memastikan semua 
-                  kebutuhan dan ekspektasi dapat tercapai dengan sempurna. Kami bekerja dengan berbagai 
-                  jenis material terbaik dan teknologi terkini untuk memastikan struktur bangunan yang kokoh, 
-                  efisien, dan ramah lingkungan.
-                </p>
-                <p className="text-zinc-600 mb-6">
-                  Kami menyediakan layanan lengkap dalam bidang konstruksi, mulai dari perencanaan, 
-                  desain, hingga pembangunan dan renovasi. Kami juga menawarkan layanan konsultasi 
-                  untuk membantu Anda merencanakan proyek konstruksi dengan lebih matang, sehingga 
-                  hasil akhirnya dapat optimal sesuai dengan anggaran dan waktu yang tersedia.
-                </p>
+
                 <Button asChild className="bg-green-600 hover:bg-green-700">
                   <a
                     href="https://wa.me/6281234400591"

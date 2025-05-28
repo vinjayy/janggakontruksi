@@ -7,10 +7,11 @@ export default function Footer() {
       <div className="container px-4 py-12 mx-auto relative z-10">
         <div className="grid gap-8 md:grid-cols-3">
           <div>
-            <h3 className="text-xl font-bold text-white mb-4">Janggajayakontruksi</h3>
+            <h3 className="text-xl font-bold text-white mb-4">Jangga Jaya Kontruksi</h3>
             <p className="mb-4">
-              Bengkel las terpercaya di Ciamis yang mengkhususkan diri dalam pembuatan dan pemasangan kanopi dan pagar
-              berkualitas tinggi.
+            Kami adalah Jangga Jaya Kontruksi Official, workshop bengkel las penyedia solusi kanopi, 
+            pagar, pintu, teralis, railing, konstruksi baja berat/wf dan produk fabrikasi besi baja 
+            lain yang terbaik di Cirebon, Majalengka, Kuningan dan Indramayu Jawa Barat
             </p>
             <div className="flex items-center gap-2 mb-2">
               <MapPin className="h-4 w-4 text-green-500" />

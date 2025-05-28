@@ -16,21 +16,14 @@
       "static/chunks/277-34ac9409e9b139a7.js",
       "static/chunks/app/layout-66e9f7fde74ef294.js"
     ],
-    "/layanan/page": [
+    "/gallery/page": [
       "static/chunks/webpack-fc00d7502eeea76d.js",
       "static/chunks/4bd1b696-7ae4f2039d169200.js",
       "static/chunks/684-ea74d84a7c1fc7ba.js",
       "static/chunks/main-app-bc78e7fbf9956137.js",
+      "static/chunks/277-34ac9409e9b139a7.js",
       "static/chunks/63-67aaeba79222b00a.js",
-      "static/chunks/app/layanan/page-a982458ef2803314.js"
-    ],
-    "/tentang-kami/page": [
-      "static/chunks/webpack-fc00d7502eeea76d.js",
-      "static/chunks/4bd1b696-7ae4f2039d169200.js",
-      "static/chunks/684-ea74d84a7c1fc7ba.js",
-      "static/chunks/main-app-bc78e7fbf9956137.js",
-      "static/chunks/63-67aaeba79222b00a.js",
-      "static/chunks/app/tentang-kami/page-471f4da83d5d84db.js"
+      "static/chunks/app/gallery/page-e5c9ca0d12a27b12.js"
     ],
     "/kontak/page": [
       "static/chunks/webpack-fc00d7502eeea76d.js",
@@ -39,6 +32,14 @@
       "static/chunks/main-app-bc78e7fbf9956137.js",
       "static/chunks/277-34ac9409e9b139a7.js",
       "static/chunks/app/kontak/page-2f1a761a53928787.js"
+    ],
+    "/layanan/page": [
+      "static/chunks/webpack-fc00d7502eeea76d.js",
+      "static/chunks/4bd1b696-7ae4f2039d169200.js",
+      "static/chunks/684-ea74d84a7c1fc7ba.js",
+      "static/chunks/main-app-bc78e7fbf9956137.js",
+      "static/chunks/63-67aaeba79222b00a.js",
+      "static/chunks/app/layanan/page-a982458ef2803314.js"
     ],
     "/page": [
       "static/chunks/webpack-fc00d7502eeea76d.js",
@@ -50,14 +51,13 @@
       "static/chunks/494-a8e7f1bd24c9a97d.js",
       "static/chunks/app/page-264a02279a9c1794.js"
     ],
-    "/gallery/page": [
+    "/tentang-kami/page": [
       "static/chunks/webpack-fc00d7502eeea76d.js",
       "static/chunks/4bd1b696-7ae4f2039d169200.js",
       "static/chunks/684-ea74d84a7c1fc7ba.js",
       "static/chunks/main-app-bc78e7fbf9956137.js",
-      "static/chunks/277-34ac9409e9b139a7.js",
       "static/chunks/63-67aaeba79222b00a.js",
-      "static/chunks/app/gallery/page-e5c9ca0d12a27b12.js"
+      "static/chunks/app/tentang-kami/page-471f4da83d5d84db.js"
     ]
   }
 }
